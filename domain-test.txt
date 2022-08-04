@@ -1,3 +1,4 @@
 vitasoy.com
-vitiasoy-chn.com
+vitasoy-chn.com
 zuul.vitasoy-chn.com
+vitasoy-chn.net
